@@ -79,10 +79,10 @@ footer:
   links:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com"
-  ---------------------------------------
+
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com"
-   --------------------------------------
+   
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
