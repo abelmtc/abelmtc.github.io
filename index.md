@@ -6,5 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I am an **undergraduate student** interested in applied mathematics and neuroscience.
-{:.custom-big-text}
+##### I am an **undergraduate student** interested in applied mathematics and neuroscience. My research interests revolve around different approaches to model cortical dynamics.
