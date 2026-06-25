@@ -6,4 +6,5 @@ layout: single
 author_profile: true
 ---
 
-I am an **undergraduate student** interested in applied mathematics and neuroscience at University of Washington. My research interests are in the area of corticial dynamics.
+I am an **undergraduate student** interested in applied mathematics and neuroscience.
+{:.custom-big-text}
